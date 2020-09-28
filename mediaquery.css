@@ -1,0 +1,39 @@
+@media only screen and (max-width: 600px) {
+	.objective{
+		width:90%;
+	}
+	.div1{
+		height:200px;
+		margin:40px 0px 40px 0px;
+	}
+	.divL{
+		margin:0;
+	}
+	.cdiv{
+		margin: 0;
+		padding:0;
+	}
+	.c1div{
+		margin:1;
+	}
+	.certidiv{
+		margin:1;
+	}
+	.mdiv{
+		margin: 0;
+		padding:0;
+		height:fit-content;
+		width:auto;
+	}
+	.navbar{
+		width:auto;
+		display: flex;
+	}
+	.navbar a{
+		flex: 1;
+		padding: 0;
+	}
+	.icon-bar a{
+		padding:0;
+	}
+}
